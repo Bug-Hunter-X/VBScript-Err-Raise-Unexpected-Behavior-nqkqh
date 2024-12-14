@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript's error handling using `Err.Raise`.  The example shows how improper use can lead to unexpected behavior if not carefully managed.  The solution demonstrates a robust approach.
